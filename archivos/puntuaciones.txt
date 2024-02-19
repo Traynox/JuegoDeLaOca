@@ -1,0 +1,3 @@
+juan@gmail.com,juan,1
+pepe@gmail.com,pepe,1
+YOLO@gmail.com,YOLO,0
